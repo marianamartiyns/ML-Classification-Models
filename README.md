@@ -1,14 +1,28 @@
-# 🧠 ML-Classifiers-Models: Rede Neural, Árvore de Decisão e SVM
+# 🧠 Machine Learning Classifiers: Neural Network, Decision Tree & SVM
 
-<a href="https://github.com/flipfelly"><img height="25" src="https://img.shields.io/badge/-Felipe Gontijo-black?logo=github&style=flat-square"/></a> 
-<a href="https://github.com/marianamartiyns"><img height="25" src="https://img.shields.io/badge/-Mariana Martins-black?logo=github&style=flat-square"/></a>
+> Classification models applied to the National Health Survey dataset (PNS - 2019) using Machine Learning techniques.
 
-Este repositório explora três dos algoritmos de classificação mais populares em Machine Learning: **Rede Neural**, **Máquina de Vetores de Suporte (SVM)** e **Árvore de Decisão**. Aqui, são aplicados para resolver tarefas de classificação no conjunto de dados da Pesquisa Nacional de Saúde (PNS), realizada pelo Ministério da Saúde em parceria com o Instituto Brasileiro de Geografia e Estatística (IBGE). A PNS é um inquérito de saúde de base domiciliar, abrangendo todo o território nacional, com edições realizadas nos anos de 2013 e 2019. Para este projeto, utilizaram-se os dados mais recentes, correspondentes ao ano de 2019, por oferecerem maior atualidade e relevância para a aplicação das técnicas de aprendizado de máquina propostas.
+### > 📋 Description
 
-### Análise de Desempenho
+This repository explores three popular classification algorithms in Machine Learning: **Neural Network**, **Support Vector Machine (SVM)**, and **Decision Tree**. These models are applied to the 2019 National Health Survey (PNS) dataset, conducted by the Ministry of Health in partnership with the Brazilian Institute of Geography and Statistics (IBGE). The dataset provides insights into various health indicators across Brazil.
 
-- Acurácia: Avaliação e comparação da acurácia de cada modelo.
-- Precisão, Revocação e F1-Score: Cálculo dessas métricas para entender o desempenho detalhado de cada classificador, especialmente em classes desbalanceadas.
+### > 🧩 Performance Analysis
+
+- [x] **Accuracy Comparison**: Evaluating and comparing the accuracy of each model.
+- [x] **Precision, Recall & F1-Score**: Calculating these metrics to analyze model performance, particularly for imbalanced classes.
+
+```py
+# Authors info
+
+# LinkedIn: https://www.linkedin.com/in/perfil-felipe-gontijo/
+# GitHub: https://github.com/flipfelly
+
+# LinkedIn: https://www.linkedin.com/in/mariana-martins/
+# GitHub: https://github.com/marianamartiyns
+```
 
 <img align="right" width ='40px' src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg'> </a>
 <img align="right" width ='40px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'> </a>
+<img align="right" width ='40px' src ='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'> </a>
+
+  

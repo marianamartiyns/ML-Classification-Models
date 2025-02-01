@@ -17,7 +17,7 @@ This repository explores three popular classification algorithms in Machine Lear
 # LinkedIn: https://www.linkedin.com/in/perfil-felipe-gontijo/
 # GitHub: https://github.com/flipfelly
 
-# LinkedIn: https://www.linkedin.com/in/mariana-martins/
+# LinkedIn: https://www.linkedin.com/in/profile-mariana-martins/
 # GitHub: https://github.com/marianamartiyns
 ```
 
